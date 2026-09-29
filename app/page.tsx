@@ -15,7 +15,7 @@ export default function Home() {
         <div className="container">
           <div className="section-heading">
             <span className="eyebrow">Portfolio</span>
-            <h2>Selected work that reflects my process and design thinking.</h2>
+            <h2>Selected work that reflects my process and desig thinking.</h2>
           </div>
 
           <div className="projects-grid">
